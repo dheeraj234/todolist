@@ -6,11 +6,11 @@ git clone the repository or simply download
 
 open it in your IDE
 
-now in the terminal change directory cd nobel_prize
+now in the terminal change directory cd file_name
 
 now run npm install for installing all dependencies
 
-After installation run node nobel.js
+After installation run node app.js
 
 now the server will be started on port 3000
 
